@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx0Enzs8L9T75JebzDOC2z4D55u9vEgQTOWA&s)
+[![MasterHead](https://www.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg)
 <h1 align="center">Hi 👋, I'm Nischith Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
