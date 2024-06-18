@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg)
+[![MasterHead](https://media.licdn.com/dms/image/D5612AQE-5t8AYTO1Xw/article-cover_image-shrink_600_2000/0/1686143224565?e=2147483647&v=beta&t=gf3choZ6C_N88jL4GQw6Ej1R4sIKVjwMyr_q3gk5YIM)
 <h1 align="center">Hi 👋, I'm Nischith Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
