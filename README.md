@@ -1,6 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQE-5t8AYTO1Xw/article-cover_image-shrink_600_2000/0/1686143224565?e=2147483647&v=beta&t=gf3choZ6C_N88jL4GQw6Ej1R4sIKVjwMyr_q3gk5YIM)
-<h1 align="center">Hi 👋, I'm Nischith Nayak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+<h1 align="center">Hi 👋, I'm Nischith Nayak
+Passionate Web Developer | Skilled in Java, DSA, and Frontend Development</h1>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="nischithnayak" /> </p>
 
