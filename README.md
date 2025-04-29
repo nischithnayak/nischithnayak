@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Nischith Nayak
-Passionate Web Developer | Skilled in Java, DSA, and Frontend Development</h1>
+Passionate Web Developer | Skilled in Java, DSA, and Full Stack Web Development</h1>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="nischithnayak" /> </p>
 
